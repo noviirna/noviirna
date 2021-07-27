@@ -11,5 +11,4 @@ I started my career as a software engineer in September 2019 as a Java Back End 
 I graduated from Mercu Buana University with Computer Science Degree (2018), and graduated from CIMB Niaga IT Development Program as CIMB Indonesia's Management Trainee (2019), and also graduated from Hacktiv8's Fullstack Javascript Immersive Program (2019).
   
 # 📫 How to reach me
-Because I don't have any social media account, You can reach me via email [(novi.irnawati@gmail.com)](mailto:novi.irnawati@gmail.com) or left a comment on my github repositories!  
-
+Because I don't have social media account, You can reach me on my [email](mailto:novi.irnawati@gmail.com), [LinkedIn](https://id.linkedin.com/in/novi-irnawati), or left a comment on my [github repositories](https://github.com/noviirna?tab=repositories)!
