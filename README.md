@@ -1,9 +1,11 @@
 ### Welcome to my GitHub page!
 
-I'm **Novi Irnawati**, a **Software Engineer** with over **6 years of experience in the banking and financial services sector**. My passion lies in crafting scalable, high-performance solutions that enhance user experiences and drive business growth. This page showcases a selection of my hobbies projects, reflecting my passion and spirit to learn in software engineering. As my current role as Software Engineer in one of Indonesian private bank involves significant contribution on its Digital Banking Retail Channels (Mobile Banking & Internet Banking), all of the codebase is proprietary. Therefore, this GitHub page focuses on personal projects and learnings that demonstrate my skills and interest in Java, Javascript and Prompt Engineering.
+I'm **Novi Irnawati**, a **Software Engineer** with over **6 years of experience in the banking and financial services sector**. My passion lies in crafting scalable, high-performance solutions that enhance user experiences and drive business growth.
+
+This page showcases a selection of my hobbies projects, reflecting my passion and spirit to learn in software engineering. As my current role as Software Engineer in one of Indonesian private bank involves significant contribution on its Digital Banking Retail Channels (Mobile Banking & Internet Banking), all of the codebase is proprietary. Therefore, this GitHub page focuses on personal projects and learnings that demonstrate my skills and interest in Java, Javascript and Prompt Engineering.
 
 ### Professional Journey
-My career has been centered around the dynamic world of digital banking at CIMB Niaga, where I've had the opportunity to contribute to significant transformations. From re-platforming monolithic applications to spearheading the development of core digital banking features, I've been at the forefront of enhancing customer onboarding, transaction capabilities, and overall system architecture.
+My career has been centered around the dynamic world of digital banking at one of Indonesian private bank, where I've had the opportunity to contribute to significant transformations. From re-platforming monolithic applications to spearheading the development of core digital banking features, I've been at the forefront of enhancing customer onboarding, transaction capabilities, and overall system architecture.
 
 ### Key Projects and Contributions
 - As a Software Developer Tech Lead, I led cross-functional teams in developing and delivering secure and user-friendly banking solutions.
