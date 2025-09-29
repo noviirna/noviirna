@@ -21,6 +21,7 @@ My most significant contributions centered on system modernization, where I play
 - Authentications 🔐
 - Personalizations 📈
 - Transactions (QR Payment and Fund Transfers) 💳
+
 All focused on strengthening the core system architecture and delivering best experiences to customers.
 
 **Currently, I am pursuing personal projects and actively expanding my skill set in Python 🐍, Machine Learning (ML), and Artificial Intelligence (AI) 🤖 integration through building personal projects.**
