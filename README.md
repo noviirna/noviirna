@@ -1,27 +1,47 @@
-### Welcome to my GitHub page!
+### Welcome to my GitHub page! 🚀
 
-I'm **Novi Irnawati**, a **Software Engineer** with over **6 years of experience in the banking and financial services sector**. My passion lies in crafting scalable, high-performance solutions that enhance user experiences and drive business growth.
+This page showcases a selection of my hobbies projects, reflecting my passion and spirit to learn in software engineering. As my previous roles in one of Indonesian private bank involves significant contribution on its Digital Banking Retail Channels (Mobile Banking & Internet Banking) 🏦, all of the codebase is proprietary. **Therefore, this GitHub page focuses on personal projects and learnings that demonstrate my skills and interest in Java, Python, Javascript, Data Engineering 📊 and AI Appliances 🧠.**
 
-This page showcases a selection of my hobbies projects, reflecting my passion and spirit to learn in software engineering. As my current role as Software Engineer in one of Indonesian private bank involves significant contribution on its Digital Banking Retail Channels (Mobile Banking & Internet Banking), all of the codebase is proprietary. Therefore, this GitHub page focuses on personal projects and learnings that demonstrate my skills and interest in Java, Javascript and Prompt Engineering.
+---
 
-### Professional Journey
-My career has been centered around the dynamic world of digital banking at one of Indonesian private bank, where I've had the opportunity to contribute to significant transformations. From re-platforming monolithic applications to spearheading the development of core digital banking features, I've been at the forefront of enhancing customer onboarding, transaction capabilities, and overall system architecture.
+### Profile 🧑‍💻
+I'm a **Full-Stack Engineer** with over **6 years of experience** spanning the entire SDLC, specializing in the banking and financial services sector. My passion lies in crafting scalable, high-performance solutions that enhance user experiences and drive business growth. ✨
 
-### Key Projects and Contributions
-- As a Software Developer Tech Lead, I led cross-functional teams in developing and delivering secure and user-friendly banking solutions.
-- I played a pivotal role in the re-architecture of the OCTO Mobile application to a microservices-based architecture, and contributed to the development of key features such as KYC, customer onboarding, and authentication.
-- My contributions have spanned both mobile and web platforms, with a focus on delivering seamless, cross-channel experiences.
-- In my current role as a Solution Architect, I am collaborating on the architectural design and implementation of mobile and internet banking applications, with a focus on account opening, QRIS-based transactions, and fund transfers. I am passionate about driving technical innovation through the adoption of microservices and DevSecOps practices.
+My expertise from previous experiences covers almost full spectrum of software development:
+- **Strategic Leadership** 🧭: Defining architecture as a **Solution Architect** and leading teams as a **Tech Lead**.
+- **Software Development** 💻: Hands-on **Frontend and Backend development** in various languages.
+- **System Modernization** 🏗️: Proven experience in complex replatforming initiatives, including re-platforming monolithic app to microservices, **ETL** during **system migration**.
 
-### Technical Expertise
-My technical toolkit includes Java, Spring Boot, React, React Native, Vue.js, and a range of other technologies. I am experienced in working with microservices architecture, REST APIs, Redis, Kafka, Openshift, Google Cloud Platform, and Firebase. I am also a proponent of Agile methodologies and DevSecOps practices, and I am committed to writing clean, well-tested code.
+My most significant contributions centered on system modernization, where I played an instrumental role in the development of various critical features, such as:
+- Customer onboarding ✅
+- Authentications 🔐
+- Personalizations 📈
+- Transactions (QR Payment and Fund Transfers) 💳
+All focused on strengthening the core system architecture and delivering best experiences to customers.
 
-### Background and Education
-- I hold a Bachelor of Computer Science degree (Cum Laude) from Universitas Mercu Buana, where I honed my skills in database management, information system analysis and design, and web and mobile programming.
-- I also completed a Fullstack JavaScript Immersive Program at Hacktiv8 Indonesia, further solidifying my expertise in modern web and mobile application development.
+**Currently, I am pursuing personal projects and actively expanding my skill set in Python 🐍, Machine Learning (ML), and Artificial Intelligence (AI) 🤖 integration through building personal projects.**
 
-### Contact
-Thank you for visiting my GitHub page. I am passionate about leveraging technology to solve complex challenges and drive innovation in the financial services industry. Please feel free to reach out if you have any questions or would like to learn more about my experience.
+---
+
+### Technical Expertise 🛠️
+#### **Languages & Frameworks**
+My hands-on experience spans modern full-stack and mobile development:
+* **Backend:** Java (Spring Boot) ☕, Rust 🦀, Node.js (Express.js)
+* **Frontend:** JavaScript (React, Vue.js)
+* **Mobile:** Kotlin, React Native 📱
+
+#### **Cloud, Architecture & Tools**
+I am proficient in enterprise-scale architecture and DevOps environments:
+* **Architecture:** Microservices, REST APIs, GraphQL, Redis, Kafka ⚙️
+* **DevOps/Platform:** Jenkins, Openshift, Google Cloud Platform (GCP) ☁️, Firebase
+
+#### **Code Quality & Focus**
+I am committed to writing clean, well-tested code. ✔️
+
+---
+
+### Contact 👋
+I am passionate about leveraging technology to solve complex challenges. Please feel free to reach out to connect, discuss my experience, or explore collaboration opportunities:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/novi-irnawati/details/experience/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noviirna)
