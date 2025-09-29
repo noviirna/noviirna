@@ -1,3 +1,7 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/novi-irnawati/details/experience/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noviirna)
+[![Email](https://img.shields.io/badge/Email-novi.irnawati%40gmail.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novi.irnawati@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1f371191df7f8010af12dd8441dc98a7?v=1f371191df7f80ae9c6e000c29ae5bea&pvs=4)
 ### Welcome to my GitHub page! 🚀
 
 This page showcases a selection of my hobbies projects, reflecting my passion and spirit to learn in software engineering. As my previous roles in one of Indonesian private bank involves significant contribution on its Digital Banking Retail Channels (Mobile Banking & Internet Banking) 🏦, all of the codebase is proprietary. **Therefore, this GitHub page focuses on personal projects and learnings that demonstrate my skills and interest in Java, Python, Javascript, Data Engineering 📊 and AI Appliances 🧠.**
